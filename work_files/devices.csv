@@ -1,0 +1,4 @@
+name,serial,pid,siteName,template,image
+adam123,12345678902,c9300,Global/AUS/SYD5,switch1.cfg,cat3k_caa-universalk9.16.09.05.SPA.bin
+adam124,12345678902,c9300,Global/AUS/SYD5,switch2.cfg,cat3k_caa-universalk9.16.09.05.SPA.bin
+adam_bad_image,12345678902,c9300,Global/AUS/SYD5,switch2.cfg,cat3k_caa-universalk9.16.09.10.SPA.bin
